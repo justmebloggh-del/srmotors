@@ -1,0 +1,1051 @@
+{
+  "_note": "Temporary SAMPLE listings for design/demo only. Prices are illustrative, not real stock. Photos: Wikimedia Commons, reused under the licences listed (attribution shown on each listing). Remove with: npm run samples:remove Each sample also has a gallery of extra views (rear, side, interior); interiors were checked to be left-hand drive.",
+  "vehicles": [
+    {
+      "slug": "sample-toyota-corolla-2020-s01",
+      "brand": "Toyota",
+      "model": "Corolla",
+      "trim": "SE",
+      "year": 2020,
+      "mileageValue": 38500,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 1798,
+      "bodyType": "sedan",
+      "drivetrain": "fwd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Atlanta, USA",
+      "cbm": 11.0,
+      "fobAmount": 14500,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/2020_Toyota_Corolla_SE%2C_front_2.29.20.jpg/1280px-2020_Toyota_Corolla_SE%2C_front_2.29.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Toyota_Corolla_SE,_front_2.29.20.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Kevauto",
+        "file": "2020 Toyota Corolla SE, front 2.29.20.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/2020_Toyota_Corolla_SE%2C_rear_2.29.20.jpg/330px-2020_Toyota_Corolla_SE%2C_rear_2.29.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Toyota_Corolla_SE,_rear_2.29.20.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kevauto",
+          "file": "2020 Toyota Corolla SE, rear 2.29.20.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1b/Lateral_Toyota_Corolla_Hybrid_CRI_10_2021_1613.jpg/330px-Lateral_Toyota_Corolla_Hybrid_CRI_10_2021_1613.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Lateral_Toyota_Corolla_Hybrid_CRI_10_2021_1613.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Mariordo (Mario Roberto Dur\u00e1n Ortiz)",
+          "file": "Lateral Toyota Corolla Hybrid CRI 10 2021 1613.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-toyota-camry-2021-s02",
+      "brand": "Toyota",
+      "model": "Camry",
+      "trim": "SE",
+      "year": 2021,
+      "mileageValue": 29000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 2487,
+      "bodyType": "sedan",
+      "drivetrain": "fwd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Houston, USA",
+      "cbm": 12.0,
+      "fobAmount": 19800,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/2021_Toyota_Camry_GR_Sport_white_front.jpg/1280px-2021_Toyota_Camry_GR_Sport_white_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2021_Toyota_Camry_GR_Sport_white_front.jpg",
+        "license": "CC0",
+        "author": "Throwawayacc222",
+        "file": "2021 Toyota Camry GR Sport white front.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2021_Toyota_Camry_GR_Sport_white_rear.jpg/330px-2021_Toyota_Camry_GR_Sport_white_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2021_Toyota_Camry_GR_Sport_white_rear.jpg",
+          "license": "CC0",
+          "author": "Throwawayacc222",
+          "file": "2021 Toyota Camry GR Sport white rear.jpg"
+        },
+        {
+          "view": "Dashboard",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/2018_Toyota_Camry_Interior.jpg/330px-2018_Toyota_Camry_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2018_Toyota_Camry_Interior.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Ryan Hildebrand",
+          "file": "2018 Toyota Camry Interior.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-toyota-rav4-2020-s03",
+      "brand": "Toyota",
+      "model": "RAV4",
+      "trim": "XLE",
+      "year": 2020,
+      "mileageValue": 41000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 2487,
+      "bodyType": "suv",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Baltimore, USA",
+      "cbm": 13.5,
+      "fobAmount": 21500,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/2020_Toyota_Rav4_XLE%2C_Front_Left%2C_09-30-2020.jpg/1280px-2020_Toyota_Rav4_XLE%2C_Front_Left%2C_09-30-2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Toyota_Rav4_XLE,_Front_Left,_09-30-2020.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "SsmIntrigue",
+        "file": "2020 Toyota Rav4 XLE, Front Left, 09-30-2020.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/2020_Toyota_RAV4_Hybrid_Limited_in_Silver_Sky_Metallic%2C_rear_left.jpg/330px-2020_Toyota_RAV4_Hybrid_Limited_in_Silver_Sky_Metallic%2C_rear_left.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Toyota_RAV4_Hybrid_Limited_in_Silver_Sky_Metallic,_rear_left.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Mr.choppers",
+          "file": "2020 Toyota RAV4 Hybrid Limited in Silver Sky Metallic, rear left.jpg"
+        },
+        {
+          "view": "Interior",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Toyota_RAV4_2019_%28XA50%29_CUV_Interior.jpg/330px-Toyota_RAV4_2019_%28XA50%29_CUV_Interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_RAV4_2019_(XA50)_CUV_Interior.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Alistair Fernandez",
+          "file": "Toyota RAV4 2019 (XA50) CUV Interior.jpg"
+        },
+        {
+          "view": "Dashboard",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/DSC06531-Toyota_Rav4_Hybrid.jpg/330px-DSC06531-Toyota_Rav4_Hybrid.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:DSC06531-Toyota_Rav4_Hybrid.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Y.Leclercq",
+          "file": "DSC06531-Toyota Rav4 Hybrid.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-toyota-highlander-2019-s04",
+      "brand": "Toyota",
+      "model": "Highlander",
+      "trim": "SE",
+      "year": 2019,
+      "mileageValue": 52000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 3456,
+      "bodyType": "suv",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Newark, USA",
+      "cbm": 16.0,
+      "fobAmount": 24900,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/2019_Toyota_Highlander_SE_in_Blizzard_Pearl%2C_front_left%2C_07-02-2026.jpg/1280px-2019_Toyota_Highlander_SE_in_Blizzard_Pearl%2C_front_left%2C_07-02-2026.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Toyota_Highlander_SE_in_Blizzard_Pearl,_front_left,_07-02-2026.jpg",
+        "license": "CC0",
+        "author": "Cutlass",
+        "file": "2019 Toyota Highlander SE in Blizzard Pearl, front left, 07-02-2026.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/17-19_Toyota_Highlander_XLE_AWD_03-26-2020_Rear.jpg/330px-17-19_Toyota_Highlander_XLE_AWD_03-26-2020_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:17-19_Toyota_Highlander_XLE_AWD_03-26-2020_Rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "SsmIntrigue",
+          "file": "17-19 Toyota Highlander XLE AWD 03-26-2020 Rear.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/Side_View_-_2014_Toyota_Highlander_Limited_Platinum_%2815889138666%29.jpg/330px-Side_View_-_2014_Toyota_Highlander_Limited_Platinum_%2815889138666%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Side_View_-_2014_Toyota_Highlander_Limited_Platinum_(15889138666).jpg",
+          "license": "CC BY 2.0",
+          "author": "Michael Sheehan",
+          "file": "Side View - 2014 Toyota Highlander Limited Platinum (15889138666).jpg"
+        },
+        {
+          "view": "Rear seats",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Interior_-_2014_Toyota_Highlander_Limited_Platinum_%2815295281163%29.jpg/330px-Interior_-_2014_Toyota_Highlander_Limited_Platinum_%2815295281163%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Interior_-_2014_Toyota_Highlander_Limited_Platinum_(15295281163).jpg",
+          "license": "CC BY 2.0",
+          "author": "Michael Sheehan",
+          "file": "Interior - 2014 Toyota Highlander Limited Platinum (15295281163).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-toyota-hilux-2021-s05",
+      "brand": "Toyota",
+      "model": "Hilux",
+      "trim": "Double Cab",
+      "year": 2021,
+      "mileageValue": 48000,
+      "mileageUnit": "km",
+      "fuelType": "diesel",
+      "transmission": "automatic",
+      "engineCapacityCc": 2755,
+      "bodyType": "pickup-truck",
+      "drivetrain": "four_wd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United Arab Emirates",
+      "location": "Dubai, UAE",
+      "cbm": 17.0,
+      "fobAmount": 27000,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Toyota_Hilux_Rogue_2nd_facelift_2020_front.jpg/1280px-Toyota_Hilux_Rogue_2nd_facelift_2020_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_Hilux_Rogue_2nd_facelift_2020_front.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "EurovisionNim",
+        "file": "Toyota Hilux Rogue 2nd facelift 2020 front.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Toyota_Hilux_Rogue_2nd_facelift_2020_rear.jpg/330px-Toyota_Hilux_Rogue_2nd_facelift_2020_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_Hilux_Rogue_2nd_facelift_2020_rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "EurovisionNim",
+          "file": "Toyota Hilux Rogue 2nd facelift 2020 rear.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-toyota-land-cruiser-prado-2020-s06",
+      "brand": "Toyota",
+      "model": "Land Cruiser Prado",
+      "trim": "TXL",
+      "year": 2020,
+      "mileageValue": 61000,
+      "mileageUnit": "km",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 3956,
+      "bodyType": "suv",
+      "drivetrain": "four_wd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United Arab Emirates",
+      "location": "Dubai, UAE",
+      "cbm": 17.5,
+      "fobAmount": 39500,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/TOYOTA_LAND_CRUISER_PRADO_%28J150%29_China.jpg/1280px-TOYOTA_LAND_CRUISER_PRADO_%28J150%29_China.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:TOYOTA_LAND_CRUISER_PRADO_(J150)_China.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Dinkun Chen",
+        "file": "TOYOTA LAND CRUISER PRADO (J150) China.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Toyota_LAND_CRUISER_PRADO_TX_%28CBA-TRJ150W-GKTEK%29_rear.jpg/330px-Toyota_LAND_CRUISER_PRADO_TX_%28CBA-TRJ150W-GKTEK%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_LAND_CRUISER_PRADO_TX_(CBA-TRJ150W-GKTEK)_rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Tokumeigakarinoaoshima",
+          "file": "Toyota LAND CRUISER PRADO TX (CBA-TRJ150W-GKTEK) rear.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Toyota_Land_Cruiser_Prado_%2852439056300%29.jpg/330px-Toyota_Land_Cruiser_Prado_%2852439056300%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_Prado_(52439056300).jpg",
+          "license": "CC BY 2.0",
+          "author": "Jason Lawrence from New York",
+          "file": "Toyota Land Cruiser Prado (52439056300).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-lexus-rx-350-2019-s07",
+      "brand": "Lexus",
+      "model": "RX 350",
+      "trim": "Premium",
+      "year": 2019,
+      "mileageValue": 48000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 3456,
+      "bodyType": "suv",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Atlanta, USA",
+      "cbm": 15.0,
+      "fobAmount": 31000,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Lexus_RX_350_3.5L%2C_10.20.19.jpg/1280px-Lexus_RX_350_3.5L%2C_10.20.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Lexus_RX_350_3.5L,_10.20.19.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ghostofakina",
+        "file": "Lexus RX 350 3.5L, 10.20.19.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/2018_Lexus_RX_350L_3.5L_rear_3.24.19.jpg/330px-2018_Lexus_RX_350L_3.5L_rear_3.24.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2018_Lexus_RX_350L_3.5L_rear_3.24.19.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kevauto",
+          "file": "2018 Lexus RX 350L 3.5L rear 3.24.19.jpg"
+        },
+        {
+          "view": "Interior",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Lexus_RX_2016_interior_%28AL20%29.jpg/330px-Lexus_RX_2016_interior_%28AL20%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Lexus_RX_2016_interior_(AL20).jpg",
+          "license": "CC BY 2.0",
+          "author": "K\u0101rlis Dambr\u0101ns",
+          "file": "Lexus RX 2016 interior (AL20).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-lexus-es-350-2019-s08",
+      "brand": "Lexus",
+      "model": "ES 350",
+      "trim": "Luxury",
+      "year": 2019,
+      "mileageValue": 36000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 3456,
+      "bodyType": "sedan",
+      "drivetrain": "fwd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Houston, USA",
+      "cbm": 13.0,
+      "fobAmount": 25500,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/2019_Lexus_ES_350%2C_front_5.19.20.jpg/1280px-2019_Lexus_ES_350%2C_front_5.19.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Lexus_ES_350,_front_5.19.20.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Kevauto",
+        "file": "2019 Lexus ES 350, front 5.19.20.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/2019_Lexus_ES_350%2C_rear_5.19.20.jpg/330px-2019_Lexus_ES_350%2C_rear_5.19.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Lexus_ES_350,_rear_5.19.20.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kevauto",
+          "file": "2019 Lexus ES 350, rear 5.19.20.jpg"
+        },
+        {
+          "view": "Interior",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/2019_Lexus_ES350_F-Sport_interior%2C_dashboard.jpg/330px-2019_Lexus_ES350_F-Sport_interior%2C_dashboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Lexus_ES350_F-Sport_interior,_dashboard.jpg",
+          "license": "CC BY-SA 3.0",
+          "author": "Mr.choppers",
+          "file": "2019 Lexus ES350 F-Sport interior, dashboard.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-honda-civic-2019-s09",
+      "brand": "Honda",
+      "model": "Civic",
+      "trim": "LX",
+      "year": 2019,
+      "mileageValue": 44000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "cvt",
+      "engineCapacityCc": 1996,
+      "bodyType": "sedan",
+      "drivetrain": "fwd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Baltimore, USA",
+      "cbm": 11.0,
+      "fobAmount": 13900,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/2019_Honda_Civic_LX%2C_Front_Left%2C_11-03-2020.jpg/1280px-2019_Honda_Civic_LX%2C_Front_Left%2C_11-03-2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Honda_Civic_LX,_Front_Left,_11-03-2020.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "SsmIntrigue",
+        "file": "2019 Honda Civic LX, Front Left, 11-03-2020.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Honda_Civic_Turbo_2017%2C_Bangladesh._%2833453534243%29.jpg/330px-Honda_Civic_Turbo_2017%2C_Bangladesh._%2833453534243%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Honda_Civic_Turbo_2017,_Bangladesh._(33453534243).jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Shadman Samee from Dhaka, Bangladesh",
+          "file": "Honda Civic Turbo 2017, Bangladesh. (33453534243).jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Yvcvc_2b_%2828512503011%29.jpg/330px-Yvcvc_2b_%2828512503011%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Yvcvc_2b_(28512503011).jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "Greg Goebel from Loveland CO, USA",
+          "file": "Yvcvc 2b (28512503011).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-honda-cr-v-2019-s10",
+      "brand": "Honda",
+      "model": "CR-V",
+      "trim": "EX 1.5 Turbo",
+      "year": 2019,
+      "mileageValue": 39000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "cvt",
+      "engineCapacityCc": 1498,
+      "bodyType": "suv",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Newark, USA",
+      "cbm": 13.5,
+      "fobAmount": 18900,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b9/2019_Honda_CR-V_1.5_TC_2WD_%281%29.jpg/1280px-2019_Honda_CR-V_1.5_TC_2WD_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Honda_CR-V_1.5_TC_2WD_(1).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Bindydad123",
+        "file": "2019 Honda CR-V 1.5 TC 2WD (1).jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Honda_CR-V_HYBRID_EX%E3%83%BBMasterpiece_2WD_%286AA-RT5%29_rear.jpg/330px-Honda_CR-V_HYBRID_EX%E3%83%BBMasterpiece_2WD_%286AA-RT5%29_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Honda_CR-V_HYBRID_EX%E3%83%BBMasterpiece_2WD_(6AA-RT5)_rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Tokumeigakarinoaoshima",
+          "file": "Honda CR-V HYBRID EX\u30fbMasterpiece 2WD (6AA-RT5) rear.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2019_Honda_CR-V_1.5_TC_2WD_%2814%29.jpg/330px-2019_Honda_CR-V_1.5_TC_2WD_%2814%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Honda_CR-V_1.5_TC_2WD_(14).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Bindydad123",
+          "file": "2019 Honda CR-V 1.5 TC 2WD (14).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-honda-accord-2021-s11",
+      "brand": "Honda",
+      "model": "Accord",
+      "trim": "Sport 2.0T",
+      "year": 2021,
+      "mileageValue": 27000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 1996,
+      "bodyType": "sedan",
+      "drivetrain": "fwd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Atlanta, USA",
+      "cbm": 12.5,
+      "fobAmount": 21400,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2021_Honda_Accord_Sport_%28facelift%29%2C_front_11.30.21.jpg/1280px-2021_Honda_Accord_Sport_%28facelift%29%2C_front_11.30.21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2021_Honda_Accord_Sport_(facelift),_front_11.30.21.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Kevauto",
+        "file": "2021 Honda Accord Sport (facelift), front 11.30.21.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/2021_Honda_Accord_Sport_%28facelift%29%2C_rear_11.30.21.jpg/330px-2021_Honda_Accord_Sport_%28facelift%29%2C_rear_11.30.21.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2021_Honda_Accord_Sport_(facelift),_rear_11.30.21.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kevauto",
+          "file": "2021 Honda Accord Sport (facelift), rear 11.30.21.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Honda_Accord_%28tenth_generation%3B_CV%29_%28side%29_in_Mangga_Besar_-_Jakarta_%2826_February_2024%29.jpg/330px-Honda_Accord_%28tenth_generation%3B_CV%29_%28side%29_in_Mangga_Besar_-_Jakarta_%2826_February_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Honda_Accord_(tenth_generation;_CV)_(side)_in_Mangga_Besar_-_Jakarta_(26_February_2024).jpg",
+          "license": "CC BY 4.0",
+          "author": "Firzafp",
+          "file": "Honda Accord (tenth generation; CV) (side) in Mangga Besar - Jakarta (26 February 2024).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-mercedes-benz-c-300-2018-s12",
+      "brand": "Mercedes-Benz",
+      "model": "C 300",
+      "trim": "4MATIC",
+      "year": 2018,
+      "mileageValue": 45000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 1991,
+      "bodyType": "sedan",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Newark, USA",
+      "cbm": 12.0,
+      "fobAmount": 20800,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/2018_Mercedes-Benz_C300_4Matic_in_Black%2C_front_right.jpg/1280px-2018_Mercedes-Benz_C300_4Matic_in_Black%2C_front_right.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2018_Mercedes-Benz_C300_4Matic_in_Black,_front_right.jpg",
+        "license": "CC BY-SA 3.0",
+        "author": "Mr.choppers",
+        "file": "2018 Mercedes-Benz C300 4Matic in Black, front right.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/2020_Mercedes-Benz_C300_AMG_Line_Night_Edition_Premium_2.0_Rear.jpg/330px-2020_Mercedes-Benz_C300_AMG_Line_Night_Edition_Premium_2.0_Rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Mercedes-Benz_C300_AMG_Line_Night_Edition_Premium_2.0_Rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Vauxford",
+          "file": "2020 Mercedes-Benz C300 AMG Line Night Edition Premium 2.0 Rear.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Mercedes-Benz_C_220_BlueTEC_Exclusive_%28W_205%29_%E2%80%93_Seitenansicht%2C_12._Juli_2014%2C_D%C3%BCsseldorf.jpg/330px-Mercedes-Benz_C_220_BlueTEC_Exclusive_%28W_205%29_%E2%80%93_Seitenansicht%2C_12._Juli_2014%2C_D%C3%BCsseldorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_C_220_BlueTEC_Exclusive_(W_205)_%E2%80%93_Seitenansicht,_12._Juli_2014,_D%C3%BCsseldorf.jpg",
+          "license": "CC BY-SA 3.0 de",
+          "author": "M 93",
+          "file": "Mercedes-Benz C 220 BlueTEC Exclusive (W 205) \u2013 Seitenansicht, 12. Juli 2014, D\u00fcsseldorf.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-mercedes-benz-gle-350-2020-s13",
+      "brand": "Mercedes-Benz",
+      "model": "GLE 350",
+      "trim": "4MATIC",
+      "year": 2020,
+      "mileageValue": 33000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 1991,
+      "bodyType": "suv",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Baltimore, USA",
+      "cbm": 17.0,
+      "fobAmount": 42000,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/2020_Mercedes-Benz_GLE_350_4Matic_front_6.16.19.jpg/1280px-2020_Mercedes-Benz_GLE_350_4Matic_front_6.16.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Mercedes-Benz_GLE_350_4Matic_front_6.16.19.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Kevauto",
+        "file": "2020 Mercedes-Benz GLE 350 4Matic front 6.16.19.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/2020_Mercedes-Benz_GLE_350_4Matic_rear_6.16.19.jpg/330px-2020_Mercedes-Benz_GLE_350_4Matic_rear_6.16.19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Mercedes-Benz_GLE_350_4Matic_rear_6.16.19.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kevauto",
+          "file": "2020 Mercedes-Benz GLE 350 4Matic rear 6.16.19.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Moscow%2C_Mercedes-Benz_GLE-Class_black%2C_May_2026_03.jpg/330px-Moscow%2C_Mercedes-Benz_GLE-Class_black%2C_May_2026_03.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Moscow,_Mercedes-Benz_GLE-Class_black,_May_2026_03.jpg",
+          "license": "CC0",
+          "author": "Retired electrician",
+          "file": "Moscow, Mercedes-Benz GLE-Class black, May 2026 03.jpg"
+        },
+        {
+          "view": "Dashboard",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/MERCEDES-BENZ_GLE_%28W167%29_CHINA_VERSION_INTERIOR.jpg/330px-MERCEDES-BENZ_GLE_%28W167%29_CHINA_VERSION_INTERIOR.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:MERCEDES-BENZ_GLE_(W167)_CHINA_VERSION_INTERIOR.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Dinkun Chen",
+          "file": "MERCEDES-BENZ GLE (W167) CHINA VERSION INTERIOR.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-bmw-x5-2020-s14",
+      "brand": "BMW",
+      "model": "X5",
+      "trim": "xDrive30d M Sport",
+      "year": 2020,
+      "mileageValue": 52000,
+      "mileageUnit": "km",
+      "fuelType": "diesel",
+      "transmission": "automatic",
+      "engineCapacityCc": 2993,
+      "bodyType": "suv",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "Germany",
+      "location": "Bremerhaven, Germany",
+      "cbm": 17.0,
+      "fobAmount": 38500,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/2020_BMW_X5_G05_xDrive30d_M_Sport%2C_front_right%2C_06-30-2024.jpg/1280px-2020_BMW_X5_G05_xDrive30d_M_Sport%2C_front_right%2C_06-30-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_BMW_X5_G05_xDrive30d_M_Sport,_front_right,_06-30-2024.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ethan Llamas",
+        "file": "2020 BMW X5 G05 xDrive30d M Sport, front right, 06-30-2024.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/2020_BMW_X5_G05_xDrive30d_M_Sport%2C_rear_left%2C_06-30-2024.jpg/330px-2020_BMW_X5_G05_xDrive30d_M_Sport%2C_rear_left%2C_06-30-2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_BMW_X5_G05_xDrive30d_M_Sport,_rear_left,_06-30-2024.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Ethan Llamas",
+          "file": "2020 BMW X5 G05 xDrive30d M Sport, rear left, 06-30-2024.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/BMW_X5_xDrive50e_M_Sport_Plug_Hybrid_Electric_Vehicle_PHEV_AWD_2025_%2822%29.jpg/330px-BMW_X5_xDrive50e_M_Sport_Plug_Hybrid_Electric_Vehicle_PHEV_AWD_2025_%2822%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:BMW_X5_xDrive50e_M_Sport_Plug_Hybrid_Electric_Vehicle_PHEV_AWD_2025_(22).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Captainmorlypogi1959",
+          "file": "BMW X5 xDrive50e M Sport Plug Hybrid Electric Vehicle PHEV AWD 2025 (22).jpg"
+        },
+        {
+          "view": "Interior",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/BMW_G05_X5_xDrive40i_M_Sport_Merino_Leather_Coffee_%285%29.jpg/330px-BMW_G05_X5_xDrive40i_M_Sport_Merino_Leather_Coffee_%285%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:BMW_G05_X5_xDrive40i_M_Sport_Merino_Leather_Coffee_(5).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Damian B Oh",
+          "file": "BMW G05 X5 xDrive40i M Sport Merino Leather Coffee (5).jpg"
+        },
+        {
+          "view": "Dashboard",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/BMW_G05_X5_xDrive40i_M_Sport_Merino_Leather_Coffee_%281%29.jpg/330px-BMW_G05_X5_xDrive40i_M_Sport_Merino_Leather_Coffee_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:BMW_G05_X5_xDrive40i_M_Sport_Merino_Leather_Coffee_(1).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Damian B Oh",
+          "file": "BMW G05 X5 xDrive40i M Sport Merino Leather Coffee (1).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-bmw-330i-2020-s15",
+      "brand": "BMW",
+      "model": "330i",
+      "trim": "xDrive",
+      "year": 2020,
+      "mileageValue": 31000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 1998,
+      "bodyType": "sedan",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Houston, USA",
+      "cbm": 12.5,
+      "fobAmount": 24700,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/2020_BMW_330i_xDrive_in_Mineral_White%2C_Front_Right%2C_07-19-2022.jpg/1280px-2020_BMW_330i_xDrive_in_Mineral_White%2C_Front_Right%2C_07-19-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_BMW_330i_xDrive_in_Mineral_White,_Front_Right,_07-19-2022.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Elise240SX",
+        "file": "2020 BMW 330i xDrive in Mineral White, Front Right, 07-19-2022.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/2020_BMW_330i_xDrive_in_Mineral_White%2C_Rear_Right%2C_07-19-2022.jpg/330px-2020_BMW_330i_xDrive_in_Mineral_White%2C_Rear_Right%2C_07-19-2022.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_BMW_330i_xDrive_in_Mineral_White,_Rear_Right,_07-19-2022.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Elise240SX",
+          "file": "2020 BMW 330i xDrive in Mineral White, Rear Right, 07-19-2022.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/BMW_3-Series_%2852823659926%29.jpg/330px-BMW_3-Series_%2852823659926%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:BMW_3-Series_(52823659926).jpg",
+          "license": "CC BY 2.0",
+          "author": "Jason Lawrence from New York",
+          "file": "BMW 3-Series (52823659926).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-ford-ranger-2019-s16",
+      "brand": "Ford",
+      "model": "Ranger",
+      "trim": "Wildtrak 3.2",
+      "year": 2019,
+      "mileageValue": 70000,
+      "mileageUnit": "km",
+      "fuelType": "diesel",
+      "transmission": "automatic",
+      "engineCapacityCc": 3198,
+      "bodyType": "pickup-truck",
+      "drivetrain": "four_wd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United Arab Emirates",
+      "location": "Jebel Ali, UAE",
+      "cbm": 17.5,
+      "fobAmount": 24500,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Ford_Ranger_Wildtrak_%28T6%2C_P375%29_1X7A6173.jpg/1280px-Ford_Ranger_Wildtrak_%28T6%2C_P375%29_1X7A6173.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Ford_Ranger_Wildtrak_(T6,_P375)_1X7A6173.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Alexander Migl",
+        "file": "Ford Ranger Wildtrak (T6, P375) 1X7A6173.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/2019_Ford_Ranger_Wildtrak_T6_rear.jpg/330px-2019_Ford_Ranger_Wildtrak_T6_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Ford_Ranger_Wildtrak_T6_rear.jpg",
+          "license": "CC0",
+          "author": "\u7384 \u53f2\u751f",
+          "file": "2019 Ford Ranger Wildtrak T6 rear.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/2019_Ford_Ranger_Lariat_crew_cab.jpg/330px-2019_Ford_Ranger_Lariat_crew_cab.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Ford_Ranger_Lariat_crew_cab.jpg",
+          "license": "CC BY 2.0",
+          "author": "Truck Hardware",
+          "file": "2019 Ford Ranger Lariat crew cab.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-ford-explorer-2020-s17",
+      "brand": "Ford",
+      "model": "Explorer",
+      "trim": "XLT",
+      "year": 2020,
+      "mileageValue": 46000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 2261,
+      "bodyType": "suv",
+      "drivetrain": "awd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Atlanta, USA",
+      "cbm": 16.0,
+      "fobAmount": 23900,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/2020_Ford_Explorer_XLT%2C_front_9.7.20.jpg/1280px-2020_Ford_Explorer_XLT%2C_front_9.7.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Ford_Explorer_XLT,_front_9.7.20.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Kevauto",
+        "file": "2020 Ford Explorer XLT, front 9.7.20.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/2020_Ford_Explorer_XLT%2C_rear_9.7.20.jpg/330px-2020_Ford_Explorer_XLT%2C_rear_9.7.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2020_Ford_Explorer_XLT,_rear_9.7.20.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kevauto",
+          "file": "2020 Ford Explorer XLT, rear 9.7.20.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Ford_Explorer_XLT_2022_%2853474977655%29.jpg/330px-Ford_Explorer_XLT_2022_%2853474977655%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Ford_Explorer_XLT_2022_(53474977655).jpg",
+          "license": "CC BY-SA 2.0",
+          "author": "RL GNZLZ from Chile",
+          "file": "Ford Explorer XLT 2022 (53474977655).jpg"
+        },
+        {
+          "view": "Interior",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/2022_Ford_Explorer_interior.jpg/330px-2022_Ford_Explorer_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2022_Ford_Explorer_interior.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "deathpallie325",
+          "file": "2022 Ford Explorer interior.jpg"
+        },
+        {
+          "view": "Dashboard",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Ford_Explorer_%28sixth_generation%29_at_IAA_2019_IMG_0424.jpg/330px-Ford_Explorer_%28sixth_generation%29_at_IAA_2019_IMG_0424.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Ford_Explorer_(sixth_generation)_at_IAA_2019_IMG_0424.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Alexander Migl",
+          "file": "Ford Explorer (sixth generation) at IAA 2019 IMG 0424.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-nissan-altima-2019-s18",
+      "brand": "Nissan",
+      "model": "Altima",
+      "trim": "2.5 S",
+      "year": 2019,
+      "mileageValue": 47000,
+      "mileageUnit": "miles",
+      "fuelType": "petrol",
+      "transmission": "cvt",
+      "engineCapacityCc": 2488,
+      "bodyType": "sedan",
+      "drivetrain": "fwd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "United States",
+      "location": "Houston, USA",
+      "cbm": 12.0,
+      "fobAmount": 12900,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/2019_Nissan_Altima%2C_front_7.11.20.jpg/1280px-2019_Nissan_Altima%2C_front_7.11.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Nissan_Altima,_front_7.11.20.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Kevauto",
+        "file": "2019 Nissan Altima, front 7.11.20.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/2019_Nissan_Altima%2C_rear_7.11.20.jpg/330px-2019_Nissan_Altima%2C_rear_7.11.20.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2019_Nissan_Altima,_rear_7.11.20.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Kevauto",
+          "file": "2019 Nissan Altima, rear 7.11.20.jpg"
+        },
+        {
+          "view": "Dashboard",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/2022_Nissan_Altima_interior.jpg/330px-2022_Nissan_Altima_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2022_Nissan_Altima_interior.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "deathpallie325",
+          "file": "2022 Nissan Altima interior.jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-hyundai-tucson-2021-s19",
+      "brand": "Hyundai",
+      "model": "Tucson",
+      "trim": "N Line",
+      "year": 2021,
+      "mileageValue": 35000,
+      "mileageUnit": "km",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 1999,
+      "bodyType": "suv",
+      "drivetrain": "fwd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "South Korea",
+      "location": "Incheon, South Korea",
+      "cbm": 13.5,
+      "fobAmount": 17800,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/2021_Hyundai_Tucson_Elite_N-Line_front.jpg/1280px-2021_Hyundai_Tucson_Elite_N-Line_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Tucson_Elite_N-Line_front.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "LuvsMG481",
+        "file": "2021 Hyundai Tucson Elite N-Line front.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/2021_Hyundai_Tucson_Elite_N-Line_rear.jpg/330px-2021_Hyundai_Tucson_Elite_N-Line_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2021_Hyundai_Tucson_Elite_N-Line_rear.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "LuvsMG481",
+          "file": "2021 Hyundai Tucson Elite N-Line rear.jpg"
+        },
+        {
+          "view": "Interior",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Hyundai_Tucson_Inspiration_NX4_Gray_Interior_%281%29.jpg/330px-Hyundai_Tucson_Inspiration_NX4_Gray_Interior_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_Inspiration_NX4_Gray_Interior_(1).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Damian B Oh",
+          "file": "Hyundai Tucson Inspiration NX4 Gray Interior (1).jpg"
+        },
+        {
+          "view": "Dashboard",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Hyundai_Tucson_Inspiration_NX4_Gray_Interior_%284%29.jpg/330px-Hyundai_Tucson_Inspiration_NX4_Gray_Interior_%284%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Hyundai_Tucson_Inspiration_NX4_Gray_Interior_(4).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "Damian B Oh",
+          "file": "Hyundai Tucson Inspiration NX4 Gray Interior (4).jpg"
+        }
+      ]
+    },
+    {
+      "slug": "sample-kia-sportage-2021-s20",
+      "brand": "Kia",
+      "model": "Sportage",
+      "trim": "GT-Line",
+      "year": 2021,
+      "mileageValue": 30000,
+      "mileageUnit": "km",
+      "fuelType": "petrol",
+      "transmission": "automatic",
+      "engineCapacityCc": 1999,
+      "bodyType": "suv",
+      "drivetrain": "fwd",
+      "steering": "lhd",
+      "condition": "used",
+      "sourceCountry": "South Korea",
+      "location": "Incheon, South Korea",
+      "cbm": 13.5,
+      "fobAmount": 17200,
+      "fobCurrency": "USD",
+      "image": {
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/2021_Kia_Sportage_silver_front_view_in_Brunei.jpg/1280px-2021_Kia_Sportage_silver_front_view_in_Brunei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2021_Kia_Sportage_silver_front_view_in_Brunei.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "AIMHO'S REBELLION 8490s",
+        "file": "2021 Kia Sportage silver front view in Brunei.jpg"
+      },
+      "gallery": [
+        {
+          "view": "Rear view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/2021_Kia_Sportage_silver_rear_view_in_Brunei.jpg/330px-2021_Kia_Sportage_silver_rear_view_in_Brunei.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2021_Kia_Sportage_silver_rear_view_in_Brunei.jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "AIMHO'S REBELLION 8490s",
+          "file": "2021 Kia Sportage silver rear view in Brunei.jpg"
+        },
+        {
+          "view": "Side view",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Kia_Sportage%283%29.jpg/330px-Kia_Sportage%283%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:Kia_Sportage(3).jpg",
+          "license": "CC BY-SA 4.0",
+          "author": "\u0413\u041f",
+          "file": "Kia Sportage(3).jpg"
+        },
+        {
+          "view": "Dashboard",
+          "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/2016_Kia_Sportage_-_Interior_1.JPG/330px-2016_Kia_Sportage_-_Interior_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+          "commonsPage": "https://commons.wikimedia.org/wiki/File:2016_Kia_Sportage_-_Interior_1.JPG",
+          "license": "CC BY-SA 4.0",
+          "author": "Areaseven",
+          "file": "2016 Kia Sportage - Interior 1.JPG"
+        }
+      ]
+    }
+  ],
+  "existingVehicleGalleries": {
+    "toyota-land-cruiser-2022-a1b2c3": [
+      {
+        "view": "Front view",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Toyota_LAND_CRUISER_ZX_%283DA-FJA300W-GMUZY%29_front.jpg/330px-Toyota_LAND_CRUISER_ZX_%283DA-FJA300W-GMUZY%29_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_LAND_CRUISER_ZX_(3DA-FJA300W-GMUZY)_front.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Tokumeigakarinoaoshima",
+        "file": "Toyota LAND CRUISER ZX (3DA-FJA300W-GMUZY) front.jpg"
+      },
+      {
+        "view": "Rear view",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Toyota_Land_Cruiser_VX_VJA300W_rear.jpg/330px-Toyota_Land_Cruiser_VX_VJA300W_rear.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_VX_VJA300W_rear.jpg",
+        "license": "CC0",
+        "author": "Ypy31",
+        "file": "Toyota Land Cruiser VX VJA300W rear.jpg"
+      },
+      {
+        "view": "Side view",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Toyota_Land_Cruiser_300_4x4_VXR_2025_%288%29.jpg/330px-Toyota_Land_Cruiser_300_4x4_VXR_2025_%288%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_300_4x4_VXR_2025_(8).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Captainmorlypogi1959",
+        "file": "Toyota Land Cruiser 300 4x4 VXR 2025 (8).jpg"
+      },
+      {
+        "view": "Dashboard",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Toyota_Land_Cruiser_VJH300_3.5_ZX_HEV_interior.jpg/330px-Toyota_Land_Cruiser_VJH300_3.5_ZX_HEV_interior.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Toyota_Land_Cruiser_VJH300_3.5_ZX_HEV_interior.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Ethan Llamas",
+        "file": "Toyota Land Cruiser VJH300 3.5 ZX HEV interior.jpg"
+      }
+    ],
+    "honda-accord-2020-d4e5f6": [
+      {
+        "view": "Front view",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/Osaka_Motor_Show_2019_%28207%29_-_Honda_ACCORD_EX_%286AA-CV3%29.jpg/330px-Osaka_Motor_Show_2019_%28207%29_-_Honda_ACCORD_EX_%286AA-CV3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Osaka_Motor_Show_2019_(207)_-_Honda_ACCORD_EX_(6AA-CV3).jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "Tokumeigakarinoaoshima",
+        "file": "Osaka Motor Show 2019 (207) - Honda ACCORD EX (6AA-CV3).jpg"
+      },
+      {
+        "view": "Side view",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Honda_Accord_%28tenth_generation%3B_CV%29_%28side%29_in_Mangga_Besar_-_Jakarta_%2826_February_2024%29.jpg/330px-Honda_Accord_%28tenth_generation%3B_CV%29_%28side%29_in_Mangga_Besar_-_Jakarta_%2826_February_2024%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:Honda_Accord_(tenth_generation;_CV)_(side)_in_Mangga_Besar_-_Jakarta_(26_February_2024).jpg",
+        "license": "CC BY 4.0",
+        "author": "Firzafp",
+        "file": "Honda Accord (tenth generation; CV) (side) in Mangga Besar - Jakarta (26 February 2024).jpg"
+      },
+      {
+        "view": "Rear view",
+        "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/2018_Honda_Accord_Sport%2C_Rear_Left%2C_04-29-2021.jpg/330px-2018_Honda_Accord_Sport%2C_Rear_Left%2C_04-29-2021.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+        "commonsPage": "https://commons.wikimedia.org/wiki/File:2018_Honda_Accord_Sport,_Rear_Left,_04-29-2021.jpg",
+        "license": "CC BY-SA 4.0",
+        "author": "SsmIntrigue",
+        "file": "2018 Honda Accord Sport, Rear Left, 04-29-2021.jpg"
+      }
+    ]
+  }
+}
